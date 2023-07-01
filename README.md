@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FROZENFLAMES-NITIZEN
-- 👀 I’m interested in Web-Devlopment,cyber-Security,Programing.
-- 🌱 I’m currently learning web-devlopment,networking.
-- 💞️ I’m looking to collaborate on web-devlopment.
+- 👀 I’m interested in Web-Devlopment,Andriod Devlopment,Cyber-Security,Programing.
+- 🌱 I’m currently learning App-devlopment,networking.
+- 💞️ I’m looking to collaborate on App-devlopment.
 - 📫 How to reach haxxor0606@gmail.com, discord - 
 
 <!---
